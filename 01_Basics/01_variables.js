@@ -22,3 +22,4 @@ accountCity = "Jammu"
 
 console.table([accountEmail, accountPassword, accountCity])
 
+
