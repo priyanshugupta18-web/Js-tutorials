@@ -26,4 +26,5 @@
 // Some comparisions (forget about logic just have a look on it and that's it.):-
 // console.log(undefined == 0) output: false
 // console.log(undefined > 0) output: false
+
 // console.log(undefined < 0) output: false
